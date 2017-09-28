@@ -3217,3 +3217,4 @@ A. The generator should be located in a well-ventilated area
 B. The generator must be insulated from ground
 C. Fuel should be stored near the generator for rapid refueling in case of an emergency
 D. All of these choices are correct
+~~
