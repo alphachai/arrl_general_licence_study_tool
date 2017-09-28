@@ -1,0 +1,45 @@
+group,G1,COMMISSION'S RULES,5,5,60
+subgroup,G1,A,General Class control operator frequency privileges; primary and secondary allocations
+subgroup,G1,B,Antenna structure limitations; good engineering and good amateur practice; beacon operation; prohibited transmissions; retransmitting radio signals
+subgroup,G1,C,Transmitter power regulations; data emission standards
+subgroup,G1,D,Volunteer Examiners and Volunteer Examiner Coordinators; temporary identification
+subgroup,G1,E,Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
+group,G2,OPERATING PROCEDURES,5,5,59
+subgroup,G2,A,Phone operating procedures; USB/LSB conventions; procedural signals; breaking into a contact; VOX operation
+subgroup,G2,B,"Operating courtesy; band plans; emergencies, including drills and emergency communications"
+subgroup,G2,C,CW operating procedures and procedural signals; Q signals and common abbreviations; full break in
+subgroup,G2,D,Amateur Auxiliary; minimizing interference; HF operations
+subgroup,G2,E,"Digital operating; procedures, procedural signals and common abbreviations"
+group,G3,RADIO WAVE PROPAGATION,3,3,41
+subgroup,G3,A,Sunspots and solar radiation; ionospheric disturbances; propagation forecasting and indices
+subgroup,G3,B,Maximum Usable Frequency; Lowest Usable Frequency; propagation
+subgroup,G3,C,Ionospheric layers; critical angle and frequency; HF scatter; Near
+group,G4,AMATEUR RADIO PRACTICES,5,5,65
+subgroup,G4,A,Station Operation and set up
+subgroup,G4,B,Test and monitoring equipment; two
+subgroup,G4,C,Interference with consumer electronics; grounding; DSP
+subgroup,G4,D,Speech processors; S meters; sideband operation near band edges
+subgroup,G4,E,HF mobile radio installations; emergency and battery powered operation
+group,G5,ELECTRICAL PRINCIPLES,3,3,44
+subgroup,G5,A,Reactance; inductance; capacitance; impedance; impedance matching
+subgroup,G5,B,The Decibel; current and voltage dividers; electrical power calculations; sine wave root
+subgroup,G5,C,"Resistors, capacitors, and inductors in series and parallel; transformers"
+group,G6,CIRCUIT COMPONENTS,2,2,37
+subgroup,G6,A,Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
+subgroup,G6,B,Analog and digital integrated circuits (ICs); microprocessors; memory; I/O devices; microwave ICs (MMICs); display devices
+group,G7,PRACTICAL CIRCUITS,3,3,38
+subgroup,G7,A,Power supplies; and schematic symbols
+subgroup,G7,B,Digital circuits; amplifiers and oscillators
+subgroup,G7,C,"Receivers and transmitters; filters, oscillators"
+group,G8,SIGNALS AND EMISSIONS,3,3,33
+subgroup,G8,A,Carriers and modulation; AM; FM; single sideband; modulation envelope; digital modulation; over modulation
+subgroup,G8,B,Frequency mixing; multiplication; bandwidths of various modes; deviation
+subgroup,G8,C,Digital emission modes
+group,G9,ANTENNAS AND FEEDLINES,4,4,58
+subgroup,G9,A,"Antenna feed lines; characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks"
+subgroup,G9,B,Basic antennas
+subgroup,G9,C,Directional antennas
+subgroup,G9,D,Specialized antennas
+group,G0,ELECTRICAL AND RF SAFETY,2,2,27
+subgroup,G0,A,"RF safety principles, rules and guidelines; routine station evaluation"
+subgroup,G0,B,"Safety in the ham shack; electrical shock and treatment, safety grounding, fusing, interlocks, wiring, antenna and tower safety"
