@@ -1,5 +1,3 @@
-SUBELEMENT G1 - COMMISSION'S RULES [5 Exam Questions - 5 Groups]
-G1A - General Class control operator frequency privileges; primary and secondary allocations
 G1A01 (C) [97.301(d)]
 On which of the following bands is a General Class license holder granted all amateur frequency privileges?
 A. 60, 20, 17, and 12 meters
@@ -98,7 +96,6 @@ B. Region 2
 C. Region 3
 D. All three regions
 ~~
-G1B - Antenna structure limitations; good engineering and good amateur practice; beacon operation; prohibited transmissions; retransmitting radio signals
 G1B01 (C) [97.15(a)]
 What is the maximum height above ground to which an antenna structure may be erected without requiring notification to the FAA and registration with the FCC, provided it is not at or near a public use airport?
 A. 50 feet
@@ -183,7 +180,6 @@ B. The Control Operator
 C. The IEEE
 D. The ITU
 ~~
-G1C - Transmitter power regulations; data emission standards
 G1C01 (A) [97.313(c)(1)]
 What is the maximum transmitting power an amateur station may use on 10.140 MHz?
 A. 200 watts PEP output
@@ -260,7 +256,6 @@ B. 19.6 kilobaud
 C. 1200 baud
 D. 300 baud
 ~~
-G1D - Volunteer Examiners and Volunteer Examiner Coordinators; temporary identification
 G1D01 (A) [97.501, 97.505(a)]
 Who may receive credit for the elements represented by an expired amateur radio license?
 A. Any person who can demonstrate that they once held an FCC issued General, Advanced, or Amateur Extra class license that was not revoked by the FCC
@@ -338,7 +333,6 @@ B. There are no requirements other than being able to show a copy of the expired
 C. The applicant must be able to produce a copy of a page from a call book published in the USA showing his or her name and address
 D. The applicant must pass the current element 2 exam
 ~~
-G1E - Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
 G1E01 (A) [97.115(b)(2)]
 Which of the following would disqualify a third party from participating in stating a message over an amateur station?
 A. The third party’s amateur license has been revoked and not reinstated
@@ -431,9 +425,6 @@ B. Anywhere in the non-phone segments of the 10-meter or shorter wavelength band
 C. Only in the non-phone Extra Class segments of the bands
 D. Anywhere in the 1.25-meter or shorter wavelength bands, and in specified segments of the 80-meter through 2-meter bands
 ~~
-
-SUBELEMENT G2 - OPERATING PROCEDURES [5 Exam Questions - 5 Groups]
-G2A - Phone operating procedures; USB/LSB conventions; procedural signals; breaking into a contact; VOX operation
 G2A01 (A)
 Which sideband is most commonly used for voice communications on frequencies of 14 MHz or higher?
 A. Upper sideband
@@ -511,7 +502,6 @@ B. The caller is listening for a station in Germany
 C. The caller is looking for any station outside their own country
 D. A distress call
 ~~
-G2B - Operating courtesy; band plans; emergencies, including drills and emergency communications
 G2B01 (C)
 Which of the following is true concerning access to frequencies in non-emergency situations?
 A. Nets always have priority
@@ -596,7 +586,6 @@ B. At any time when transmitting in an organized net
 C. At any time during an actual emergency
 D. Only on authorized HF frequencies
 ~~
-G2C - CW operating procedures and procedural signals; Q signals and common abbreviations: full break in
 G2C01 (D)
 Which of the following describes full break-in telegraphy (QSK)?
 A. Breaking stations send the Morse code prosign BK
@@ -674,7 +663,6 @@ B. There is interference on the frequency
 C. I am quitting for the day
 D. I am ready to receive messages
 ~~
-G2D - Amateur Auxiliary; minimizing interference; HF operations
 G2D01 (A)
 What is the Amateur Auxiliary to the FCC?
 A. Amateur volunteers who are formally enlisted to monitor the airwaves for rules violations
@@ -752,7 +740,6 @@ B. An isotropic antenna
 C. A directional antenna
 D. An omnidirectional antenna
 ~~
-G2E - Digital operating: procedures, procedural signals and common abbreviations
 G2E01 (D)
 Which mode is normally used when sending an RTTY signal via AFSK with an SSB transmitter?
 A. USB
@@ -836,8 +823,6 @@ G2E14 (D)
 What could be wrong if you cannot decode an RTTY or other FSK signal even  though it is apparently tuned in properly?  A. The mark and space frequencies may be reversed  B. You may have selected the wrong baud rate  C. You may be listening on the wrong sideband
 D. All of these choices are correct
 ~~
-SUBELEMENT G3 - RADIO WAVE PROPAGATION [3 Exam Questions - 3 Groups]
-G3A - Sunspots and solar radiation; ionospheric disturbances; propagation forecasting and indices
 G3A01 (A)
 What is the significance of the sunspot number with regard to HF propagation?
 A.  Higher sunspot numbers generally indicate a greater probability of good propagation at higher frequencies
@@ -950,7 +935,6 @@ B. Higher signal strength for HF signals passing through the polar regions
 C. Improved HF long path propagation
 D. Reduced long delayed echoes
 ~~
-G3B - Maximum Usable Frequency; Lowest Usable Frequency; propagation
 G3B01 (D)
 How might a sky-wave signal sound if it arrives at your receiver by both short path and long path propagation?
 A. Periodic fading approximately every 10 seconds
@@ -1035,7 +1019,6 @@ B. Time of day and season
 C. Solar radiation and ionospheric disturbances
 D. All of these choices are correct
 ~~
-G3C - Ionospheric layers; critical angle and frequency; HF scatter; Near Vertical Incidence Sky-wave
 G3C01 (A)
 Which ionospheric layer is closest to the surface of the Earth?
 A. The D layer
@@ -1127,8 +1110,6 @@ B. Short distance MF or HF propagation using high elevation angles
 C. Long path HF propagation at sunrise and sunset
 D. Double hop propagation near the LUF
 ~~
-SUBELEMENT G4 - AMATEUR RADIO PRACTICES [5 Exam Questions - 5 groups]
-G4A - Station Operation and set up
 G4A01 (B)
 What is the purpose of the "notch filter" found on many HF transceivers?
 A. To restrict the transmitter voice bandwidth
@@ -1234,7 +1215,6 @@ B. The transmitter signal is distorted
 C. Frequent connection timeouts
 D. All of these choices are correct
 ~~
-G4B - Test and monitoring equipment; two-tone test
 G4B01 (D)
 What item of test equipment contains horizontal and vertical channel amplifiers?
 A. An ohmmeter
@@ -1340,7 +1320,6 @@ B. Percentage of suppression of carrier and undesired sideband for SSB
 C. Percentage of frequency modulation
 D. Percentage of carrier phase shift
 ~~
-G4C - Interference with consumer electronics; grounding; DSP
 G4C01 (B)
 Which of the following might be useful in reducing RF interference to audio frequency devices?
 A. Bypass inductor
@@ -1432,7 +1411,6 @@ B. A Digital Signal Processor (DSP) filter
 C. Balanced mixing
 D. A noise limiter
 ~~
-G4D - Speech processors; S meters; sideband operation near band edges
 G4D01 (A)
 What is the purpose of a speech processor as used in a modern transceiver?
 A. Increase the intelligibility of transmitted phone signals during poor conditions
@@ -1510,7 +1488,6 @@ B. At least 3 kHz below the edge of the band
 C. Your displayed carrier frequency may be set at the edge of the band
 D. At least 1 kHz below the edge of the segment
 ~~
-G4E - HF mobile radio installations; emergency and battery powered operation
 G4E01 (C)
 What is the purpose of a capacitance hat on a mobile antenna?
 A. To increase the power handling capacity of a whip antenna
@@ -1588,8 +1565,6 @@ B. The voltage and current ratings of such systems are not compatible with amate
 C. A large energy storage system is needed to supply power when the wind is not blowing
 D. All of these choices are correct
 ~~
-SUBELEMENT G5 - ELECTRICAL PRINCIPLES [3 Exam Questions - 3 Groups]
-G5A - Reactance; inductance; capacitance; impedance; impedance matching
 G5A01 (C)
 What is impedance?
 A. The electric charge stored by a capacitor
@@ -1681,7 +1656,6 @@ B. A Pi-network
 C. A length of transmission line
 D. All of these choices are correct
 ~~
-G5B - The Decibel; current and voltage dividers; electrical power calculations; sine wave root-mean-square (RMS) values; PEP calculations
 G5B01 (B)
 What dB change represents a two-times increase or decrease in power?
 A. Approximately 2 dB
@@ -1780,7 +1754,6 @@ B. 625 watts
 C. 2500 watts
 D. 5000 watts
 ~~
-G5C - Resistors, capacitors, and inductors in series and parallel; transformers
 G5C01 (C)
 What causes a voltage to appear across the secondary winding of a transformer when an AC voltage source is connected across its primary winding?
 A. Capacitive coupling
@@ -1894,8 +1867,6 @@ C. To prevent parasitic oscillations due to resistive losses in the primary
 D. To insure that the volume of the primary winding is equal to the volume of the secondary winding
 ~~
 G5C17 (C)  What is the value in nanofarads (nF) of a 22,000 pF capacitor? A. 0.22 nF           B. 2.2 nF          C. 22 nF             D. 220 nF         ~~   G5C18 (D)  What is the value in microfarads of a 4700 nanofarad (nF) capacitor?  A. 47 µF B. 0.47 µF C. 47,000 µF  D. 4.7 µF ~~
-SUBELEMENT G6 - CIRCUIT COMPONENTS [2 Exam Questions - 2 Groups]
-G6A - Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
 G6A01 (C)
 What is the minimum allowable discharge voltage for maximum life of a standard 12 volt lead acid battery?
 A. 6 volts
@@ -2030,7 +2001,6 @@ B. Parallel to each other
 C. At right angles to each other
 D. Interleaved
 ~~
-G6B - Analog and digital integrated circuits (ICs); microprocessors; memory; I/O devices; microwave ICs (MMICs); display devices
 G6B01 (D)
 Which of the following is an analog integrated circuit?
 A. NAND Gate
@@ -2157,7 +2127,6 @@ B. A small threaded connector suitable for signals up to several GHz
 C. A connector designed for serial multiple access signals
 D. A type of push-on connector intended for high voltage applications
 ~~
-G7 - PRACTICAL CIRCUITS [3 Exam Questions - 3 Groups]
 G7A Power supplies; and schematic symbols
 G7A01 (B)
 What useful feature does a power supply bleeder resistor provide?
@@ -2166,7 +2135,6 @@ B. It ensures that the filter capacitors are discharged when power is removed
 C. It removes shock hazards from the induction coils
 D. It eliminates ground loop current
 ~~
-
 G7A02 (D)
 Which of the following components are used in a power supply filter network?
 A. Diodes
@@ -2251,7 +2219,6 @@ B. Symbol 11
 C. Symbol 6
 D. Symbol 1
 ~~
-G7B - Digital circuits; amplifiers and oscillators
 G7B01 (A)
 Complex digital circuitry can often be replaced by what type of integrated circuit?
 A. Microcontroller
@@ -2350,7 +2317,6 @@ B. An amplifier in which the output preserves the input waveform
 C. A Class C high efficiency amplifier
 D. An amplifier used as a frequency multiplier
 ~~
-G7C - Receivers and transmitters; filters, oscillators
 G7C01 (B)
 Which of the following is used to process signals from the balanced modulator then send them to the mixer in some single sideband phone transmitters?
 A. Carrier oscillator
@@ -2428,8 +2394,6 @@ B. A radio that provides computer interface for automatic logging of band and fr
 C. A radio that uses crystal filters designed using software
 D. A computer model that can simulate performance of a radio to aid in the design process
 ~~
-SUBELEMENT G8 - SIGNALS AND EMISSIONS [3 Exam Questions - 3 Groups]
-G8A - Carriers and modulation: AM; FM; single sideband; modulation envelope; digital modulation; overmodulation
 G8A01 (B)
 How is an FSK signal generated?
 A. By keying an FM transmitter with a sub-audible tone
@@ -2506,7 +2470,6 @@ B. The carrier frequency that contains the signal
 C. Spurious signals that envelop nearby frequencies
 D. The bandwidth of the modulated signal
 ~~
-G8B - Frequency mixing; multiplication; bandwidths of various modes; deviation; duty cycle
 G8B01 (A)
 What receiver stage combines a 14.250 MHz input signal with a 13.795 MHz oscillator signal to produce a 455 kHz intermediate frequency (IF) signal?
 A. Mixer
@@ -2577,8 +2540,7 @@ B. Higher symbol rates require wider bandwidth
 C. Lower symbol rates require wider bandwidth
 D. Bandwidth is always half the symbol rate
 ~~
- G8C - Digital emission modes
-G8C01 (B)
+ G8C01 (B)
 Which of the following digital modes is designed to operate at extremely low signal strength on the HF bands?
 A. FSK441 and Hellschreiber
 B. JT9 and JT65
@@ -2661,8 +2623,6 @@ B. Viterbi
 C. Volumetric
 D. Binary
 ~~
-SUBELEMENT G9 - ANTENNAS AND FEED LINES [4 Exam Questions - 4 Groups]
-G9A - Antenna feed lines: characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks
 G9A01 (A)
 Which of the following factors determine the characteristic impedance of a parallel conductor antenna feed line?
 A. The distance between the centers of the conductors and the radius of the conductors
@@ -2768,7 +2728,6 @@ B. The higher the transmission line loss, the more the SWR will read artificiall
 C. The higher the transmission line loss, the more accurate the SWR measurement will be
 D. Transmission line loss does not affect the SWR measurement
 ~~
-G9B - Basic antennas
 G9B01 (B)
 What is one disadvantage of a directly fed random-wire HF antenna?
 A. It must be longer than 1 wavelength
@@ -2853,7 +2812,6 @@ B. 11 feet
 C. 16 feet
 D. 21 feet
 ~~
-G9C - Directional antennas
 G9C01 (A)
 Which of the following would increase the bandwidth of a Yagi antenna?
 A. Larger diameter elements
@@ -2994,7 +2952,6 @@ B. dBi refers to an ionospheric reflecting antenna, dBd refers to a dissipative 
 C. dBi refers to an inverted-vee antenna, dBd refers to a downward reflecting antenna
 D. dBi refers to an isometric antenna, dBd refers to a discone antenna
 ~~
-G9D - Specialized antennas
 G9D01 (D)
 What does the term NVIS mean as related to antennas?
 A. Nearly Vertical Inductance System
@@ -3072,8 +3029,6 @@ B. They must be used with an antenna tuner
 C. They must be fed with open wire line
 D. They have poor harmonic rejection
 ~~
-SUBELEMENT G0 - ELECTRICAL AND RF SAFETY [2 Exam Questions - 2 Groups]
-G0A - RF safety principles, rules and guidelines; routine station evaluation
 G0A01 (A)
 What is one way that RF energy can affect human body tissue?
 A. It heats body tissue
@@ -3158,7 +3113,6 @@ B. Turn off the transmitter and disconnect the feed line
 C. Wear a radiation badge
 D. All of these choices are correct
 ~~
-G0B - Safety in the ham shack: electrical shock and treatment, safety grounding, fusing, interlocks, wiring, antenna and tower safety
 G0B01 (A)
 Which wire or wires in a four-conductor connection should be attached to fuses or circuit breakers in a device operated from a 240 VAC single phase source?
 A. Only the two wires carrying voltage
