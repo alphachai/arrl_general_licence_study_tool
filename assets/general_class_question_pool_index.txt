@@ -3,7 +3,7 @@ G1A - General Class control operator frequency privileges; primary and secondary
 G1B - Antenna structure limitations; good engineering and good amateur practice; beacon operation; prohibited transmissions; retransmitting radio signals
 G1C - Transmitter power regulations; data emission standards
 G1D - Volunteer Examiners and Volunteer Examiner Coordinators; temporary identification
-G1E – Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
+G1E - Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
 SUBELEMENT G2 OPERATING PROCEDURES [5 Exam Questions-5 Groups] 59 Questions
 G2A - Phone operating procedures; USB/LSB conventions; procedural signals; breaking into a contact; VOX operation
 G2B - Operating courtesy; band plans; emergencies, including drills and emergency communications
@@ -15,31 +15,31 @@ G3A - Sunspots and solar radiation; ionospheric disturbances; propagation foreca
 G3B - Maximum Usable Frequency; Lowest Usable Frequency; propagation
 G3C - Ionospheric layers; critical angle and frequency; HF scatter; Near-Vertical Incidence Skywave
 SUBELEMENT G4 AMATEUR RADIO PRACTICES [5 Exam Questions-5 groups] 65 Questions
-G4A – Station Operation and set up
+G4A - Station Operation and set up
 G4B - Test and monitoring equipment; two-tone test
 G4C - Interference with consumer electronics; grounding; DSP
 G4D - Speech processors; S meters; sideband operation near band edges
 G4E - HF mobile radio installations; emergency and battery powered operation
-SUBELEMENT G5 ELECTRICAL PRINCIPLES [3 Exam Questions–3 Groups] 44 Questions
+SUBELEMENT G5 ELECTRICAL PRINCIPLES [3 Exam Questions-3 Groups] 44 Questions
 G5A - Reactance; inductance; capacitance; impedance; impedance matching
 G5B - The Decibel; current and voltage dividers; electrical power calculations; sine wave root-mean-square (RMS) values; PEP calculations
-G5C – Resistors, capacitors, and inductors in series and parallel; transformers
-SUBELEMENT G6 CIRCUIT COMPONENTS [2 Exam Questions–2 Groups] 37 Questions
-G6A – Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
+G5C - Resistors, capacitors, and inductors in series and parallel; transformers
+SUBELEMENT G6 CIRCUIT COMPONENTS [2 Exam Questions-2 Groups] 37 Questions
+G6A - Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
 G6B - Analog and digital integrated circuits (ICs); microprocessors; memory; I/O devices; microwave ICs (MMICs); display devices
-SUBELEMENT G7 PRACTICAL CIRCUITS [3 Exam Questions–3 Groups] 38 Questions
-G7A Power supplies; and schematic symbols
+SUBELEMENT G7 PRACTICAL CIRCUITS [3 Exam Questions-3 Groups] 38 Questions
+G7A - Power supplies; and schematic symbols
 G7B - Digital circuits; amplifiers and oscillators
 G7C - Receivers and transmitters; filters, oscillators
-SUBELEMENT G8 SIGNALS AND EMISSIONS [3 Exam Questions–3 Groups] 33 Questions
+SUBELEMENT G8 SIGNALS AND EMISSIONS [3 Exam Questions-3 Groups] 33 Questions
 G8A - Carriers and modulation; AM; FM; single sideband; modulation envelope; digital modulation; over modulation
 G8B - Frequency mixing; multiplication; bandwidths of various modes; deviation
-G8C – Digital emission modes
-SUBELEMENT G9 ANTENNAS AND FEEDLINES [4 Exam Questions–4 Groups] 58 Questions
+G8C - Digital emission modes
+SUBELEMENT G9 ANTENNAS AND FEEDLINES [4 Exam Questions-4 Groups] 58 Questions
 G9A - Antenna feed lines; characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks
 G9B - Basic antennas
 G9C - Directional antennas
 G9D - Specialized antennas
-SUBELEMENT G0 ELECTRICAL AND RF SAFETY [2 Exam Questions–2 Groups] 27 Questions
+SUBELEMENT G0 ELECTRICAL AND RF SAFETY [2 Exam Questions-2 Groups] 27 Questions
 G0A - RF safety principles, rules and guidelines; routine station evaluation
 G0B - Safety in the ham shack; electrical shock and treatment, safety grounding, fusing, interlocks, wiring, antenna and tower safety

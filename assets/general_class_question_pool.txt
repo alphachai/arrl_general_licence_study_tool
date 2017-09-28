@@ -338,7 +338,7 @@ B. There are no requirements other than being able to show a copy of the expired
 C. The applicant must be able to produce a copy of a page from a call book published in the USA showing his or her name and address
 D. The applicant must pass the current element 2 exam
 ~~
-G1E – Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
+G1E - Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
 G1E01 (A) [97.115(b)(2)]
 Which of the following would disqualify a third party from participating in stating a message over an amateur station?
 A. The third party’s amateur license has been revoked and not reinstated
@@ -792,10 +792,10 @@ D. 850 Hz
 ~~
 G2E07 (A)
 What segment of the 80-meter band is most commonly used for digital transmissions?
-A. 3570 – 3600 kHz
-B. 3500 – 3525 kHz
-C. 3700 – 3750 kHz
-D. 3775 – 3825 kHz
+A. 3570 - 3600 kHz
+B. 3500 - 3525 kHz
+C. 3700 - 3750 kHz
+D. 3775 - 3825 kHz
 ~~
 G2E08 (D)
 In what segment of the 20-meter band are most PSK31 operations commonly found?
@@ -1128,7 +1128,7 @@ C. Long path HF propagation at sunrise and sunset
 D. Double hop propagation near the LUF
 ~~
 SUBELEMENT G4 - AMATEUR RADIO PRACTICES [5 Exam Questions - 5 groups]
-G4A – Station Operation and set up
+G4A - Station Operation and set up
 G4A01 (B)
 What is the purpose of the "notch filter" found on many HF transceivers?
 A. To restrict the transmitter voice bandwidth
@@ -1588,7 +1588,7 @@ B. The voltage and current ratings of such systems are not compatible with amate
 C. A large energy storage system is needed to supply power when the wind is not blowing
 D. All of these choices are correct
 ~~
-SUBELEMENT G5 – ELECTRICAL PRINCIPLES [3 Exam Questions – 3 Groups]
+SUBELEMENT G5 - ELECTRICAL PRINCIPLES [3 Exam Questions - 3 Groups]
 G5A - Reactance; inductance; capacitance; impedance; impedance matching
 G5A01 (C)
 What is impedance?
@@ -1780,7 +1780,7 @@ B. 625 watts
 C. 2500 watts
 D. 5000 watts
 ~~
-G5C – Resistors, capacitors, and inductors in series and parallel; transformers
+G5C - Resistors, capacitors, and inductors in series and parallel; transformers
 G5C01 (C)
 What causes a voltage to appear across the secondary winding of a transformer when an AC voltage source is connected across its primary winding?
 A. Capacitive coupling
@@ -1894,8 +1894,8 @@ C. To prevent parasitic oscillations due to resistive losses in the primary
 D. To insure that the volume of the primary winding is equal to the volume of the secondary winding
 ~~
 G5C17 (C)  What is the value in nanofarads (nF) of a 22,000 pF capacitor? A. 0.22 nF           B. 2.2 nF          C. 22 nF             D. 220 nF         ~~   G5C18 (D)  What is the value in microfarads of a 4700 nanofarad (nF) capacitor?  A. 47 µF B. 0.47 µF C. 47,000 µF  D. 4.7 µF ~~
-SUBELEMENT G6 – CIRCUIT COMPONENTS [2 Exam Questions – 2 Groups]
-G6A – Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
+SUBELEMENT G6 - CIRCUIT COMPONENTS [2 Exam Questions - 2 Groups]
+G6A - Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
 G6A01 (C)
 What is the minimum allowable discharge voltage for maximum life of a standard 12 volt lead acid battery?
 A. 6 volts
@@ -2157,7 +2157,7 @@ B. A small threaded connector suitable for signals up to several GHz
 C. A connector designed for serial multiple access signals
 D. A type of push-on connector intended for high voltage applications
 ~~
-G7 – PRACTICAL CIRCUITS [3 Exam Questions – 3 Groups]
+G7 - PRACTICAL CIRCUITS [3 Exam Questions - 3 Groups]
 G7A Power supplies; and schematic symbols
 G7A01 (B)
 What useful feature does a power supply bleeder resistor provide?
@@ -2428,7 +2428,7 @@ B. A radio that provides computer interface for automatic logging of band and fr
 C. A radio that uses crystal filters designed using software
 D. A computer model that can simulate performance of a radio to aid in the design process
 ~~
-SUBELEMENT G8 – SIGNALS AND EMISSIONS [3 Exam Questions – 3 Groups]
+SUBELEMENT G8 - SIGNALS AND EMISSIONS [3 Exam Questions - 3 Groups]
 G8A - Carriers and modulation: AM; FM; single sideband; modulation envelope; digital modulation; overmodulation
 G8A01 (B)
 How is an FSK signal generated?
@@ -2577,7 +2577,7 @@ B. Higher symbol rates require wider bandwidth
 C. Lower symbol rates require wider bandwidth
 D. Bandwidth is always half the symbol rate
 ~~
- G8C – Digital emission modes
+ G8C - Digital emission modes
 G8C01 (B)
 Which of the following digital modes is designed to operate at extremely low signal strength on the HF bands?
 A. FSK441 and Hellschreiber
@@ -2661,7 +2661,7 @@ B. Viterbi
 C. Volumetric
 D. Binary
 ~~
-SUBELEMENT G9 – ANTENNAS AND FEED LINES [4 Exam Questions – 4 Groups]
+SUBELEMENT G9 - ANTENNAS AND FEED LINES [4 Exam Questions - 4 Groups]
 G9A - Antenna feed lines: characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks
 G9A01 (A)
 Which of the following factors determine the characteristic impedance of a parallel conductor antenna feed line?
@@ -3072,7 +3072,7 @@ B. They must be used with an antenna tuner
 C. They must be fed with open wire line
 D. They have poor harmonic rejection
 ~~
-SUBELEMENT G0 – ELECTRICAL AND RF SAFETY [2 Exam Questions – 2 Groups]
+SUBELEMENT G0 - ELECTRICAL AND RF SAFETY [2 Exam Questions - 2 Groups]
 G0A - RF safety principles, rules and guidelines; routine station evaluation
 G0A01 (A)
 What is one way that RF energy can affect human body tissue?
