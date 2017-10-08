@@ -58,9 +58,21 @@ with open(pool_index_file, 'r') as f:
             title = (line.split('-'))[1].strip()
             pool_index[section_id]['index'][id] = title
 
+"""
+
+G1A01 (C) [97.301(d)]
+On which of the following bands is a General Class license holder granted all amateur frequency privileges?
+A. 60, 20, 17, and 12 meters
+B. 160, 80, 40, and 10 meters
+C. 160, 60, 30, 17, 12, and 10 meters
+D. 160, 30, 17, 15, 12, and 10 meters
+~~
+
+"""
+
 with open(pool_file, 'r') as f:
     for line in f:
-        pass
+    question_lines = [f.readline()]
 
 with open(pool_csv, 'w') as f:
     output = csv.writer(f)
